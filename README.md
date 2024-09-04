@@ -32,6 +32,6 @@ Eu sou <strong>João Marcos</strong>, <strong>Faça uma breve apresentação aqu
 
 **Contagem de visitas**
 
-![VisitorCount](https://profile-counter.glitch.me/{Duduxs}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{jmtmds}/count.svg)
 
 ⚡ Curiosidade sobre mim: Eu Amo Batata.
