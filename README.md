@@ -1,6 +1,6 @@
 # [JM] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif?raw=true" width="80px">
 
-Eu sou <strong>João Marcos</strong>, <strong>Sou uma pessoa dedicada, sempre em busca de novos desafios e oportunidades para crescer</strong> 👨🏻‍💻 
+Eu sou <strong>João Marcos</strong>, <strong>Sempre em busca de novos desafios e oportunidades para crescer</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>JavaScript, HTML</strong> 
 - 💬 Pergunte-me sobre: <strong>Games</strong>
