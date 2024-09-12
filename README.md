@@ -28,10 +28,12 @@ Eu sou <strong>João Marcos</strong>, <strong>Faça uma breve apresentação aqu
 <div align="center">
 <a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jmtmds"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jmtmds&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
 </a>
+
 </div>
 
-**Contagem de visitas**
+**Contagem de Visitas**
 
 ![VisitorCount](https://profile-counter.glitch.me/{jmtmds}/count.svg)
 
-⚡ Curiosidade sobre mim: Eu Amo Batata.
+👀 Curiosidade sobre mim: Sou formado em Gastronomia, 
+tenho curso de cozinha e amo comer.
